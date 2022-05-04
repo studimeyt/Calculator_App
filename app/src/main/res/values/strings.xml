@@ -12,12 +12,12 @@
     <string name="_9">9</string>
     <string name="_8">8</string>
     <string name="_7">7</string>
-    <string name="multiplication">*</string>
-    <string name="substraction">-</string>
-    <string name="vault">V</string>
+    <string name="subtraction">-</string>
     <string name="addition">+</string>
-    <string name="division">/</string>
     <string name="clear">C</string>
     <string name="closeBracket">)</string>
     <string name="openBracket">(</string>
+    <string name="multiplication">×</string>
+    <string name="vault">🔒</string>
+    <string name="division">÷</string>
 </resources>
